@@ -1,0 +1,35 @@
+Pos_Fun_0001: mata ada pothak kiyawanna thiyanawa
+Pos_Fun_0002: eya hodha lekakiyek
+Pos_Fun_0003: mata heta dhina ithaa kaarya bahula dhinayak
+Pos_Fun_0004: mama me sathianthaye pothak kiyawanawa
+Pos_Fun_0005: machan science fiction book ekak recommend karanna puluwandha
+Pos_Fun_0006: api me weekend cinema ekak balanna yandha
+Pos_Fun_0007: trailer eka beluwadha eka nam maru
+Pos_Fun_0008: Nolan ge films mata maara aasai
+Pos_Fun_0009: machan cafe ekakata mama yanna hadhanawa
+Pos_Fun_0010: mama subtitles nethuwa movie ekak balanawa
+Pos_Fun_0011: api photos tikak gannawa
+Pos_Fun_0012: heta dhina amma saha mama rohalata beheth ganna yannemu
+Pos_Fun_0013: ada ape niwase theentha aalepanaya karamin sitiya
+Pos_Fun_0014: api denna ekata yanna hithenawa Italian restaurant ekakata
+Pos_Fun_0015: Sunday morning hiking ekata yanna hithenawa  upcountry area ekakata
+Pos_Fun_0016: mama aluth laptop ekak ganna hithenawa gaming laptop ekak
+Pos_Fun_0017: camera quality hariyata vada karanawa
+Pos_Fun_0018: app eka update karanna ona
+Pos_Fun_0019: mata mechanical keyboards ganan vedi typing eka hari na
+Pos_Fun_0020: mama code eka debug karagena inne error tikak thiyanawa
+Pos_Fun_0021: blog post ekak publish karala thiyanawa
+Pos_Fun_0022: mama poem ekak liyagena inne
+Pos_Fun_0023: mama saahithya nisadhes kiyaweemata itha kemetthak dakwami
+Pos_Fun_0024: oya heta niwadunam api gamanak yamu
+Neg_Fun_0001: bro eka hari!
+Neg_Fun_0002: lol mama adha busy
+Neg_Fun_0003: tysm machan!
+Neg_Fun_0004: mata phone ekata call ekak dhenna, BRB
+Neg_Fun_0005: omg eka hodha movie ekak
+Neg_Fun_0006: URL eka copy karala paste karanna
+Neg_Fun_0007: wifi password eka kohomadha dhagatthey
+Neg_Fun_0008: netflix ge subscription ekak gatta Disney+ ekka
+Neg_Fun_0009: ok
+Neg_Fun_0010: hmm balamu
+Pos_UI_0001: mama type karagena inne

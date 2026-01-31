@@ -1,0 +1,212 @@
+[
+  {
+    "id": "Pos_Fun_0001",
+    "input": "mata ada pothak kiyawanna thiyanawa",
+    "output": "mata ada pothak kiyawanna thiyanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "input": "eya hodha lekakiyek",
+    "output": "eya hodha lekakiyek",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "input": "mata heta dhina ithaa kaarya bahula dhinayak",
+    "output": "mata heta dhina ithaa kaarya bahula dhinayak",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "input": "mama me sathianthaye pothak kiyawanawa",
+    "output": "mama me sathianthaye pothak kiyawanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "input": "machan science fiction book ekak recommend karanna puluwandha",
+    "output": "machan science fiction book ekak recommend karanna puluwandha",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0006",
+    "input": "api me weekend cinema ekak balanna yandha",
+    "output": "api me weekend cinema ekak balanna yandha",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "input": "trailer eka beluwadha eka nam maru",
+    "output": "trailer eka beluwadha eka nam maru",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "input": "Nolan ge films mata maara aasai",
+    "output": "Nolan ge films mata maara aasai",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0009",
+    "input": "machan cafe ekakata mama yanna hadhanawa",
+    "output": "machan cafe ekakata mama yanna hadhanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0010",
+    "input": "mama subtitles nethuwa movie ekak balanawa",
+    "output": "mama subtitles nethuwa movie ekak balanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0011",
+    "input": "api photos tikak gannawa",
+    "output": "api photos tikak gannawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0012",
+    "input": "heta dhina amma saha mama rohalata beheth ganna yannemu",
+    "output": "heta dhina amma saha mama rohalata beheth ganna yannemu",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0013",
+    "input": "ada ape niwase theentha aalepanaya karamin sitiya",
+    "output": "ada ape niwase theentha aalepanaya karamin sitiya",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0014",
+    "input": "api denna ekata yanna hithenawa Italian restaurant ekakata",
+    "output": "api denna ekata yanna hithenawa Italian restaurant ekakata",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0015",
+    "input": "Sunday morning hiking ekata yanna hithenawa upcountry area ekakata",
+    "output": "Sunday morning hiking ekata yanna hithenawa  upcountry area ekakata",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0016",
+    "input": "mama aluth laptop ekak ganna hithenawa gaming laptop ekak",
+    "output": "mama aluth laptop ekak ganna hithenawa gaming laptop ekak",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0017",
+    "input": "camera quality hariyata vada karanawa",
+    "output": "camera quality hariyata vada karanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0018",
+    "input": "app eka update karanna ona",
+    "output": "app eka update karanna ona",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0019",
+    "input": "mata mechanical keyboards ganan vedi typing eka hari na",
+    "output": "mata mechanical keyboards ganan vedi typing eka hari na",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0020",
+    "input": "mama code eka debug karagena inne error tikak thiyanawa",
+    "output": "mama code eka debug karagena inne error tikak thiyanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0021",
+    "input": "blog post ekak publish karala thiyanawa",
+    "output": "blog post ekak publish karala thiyanawa",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0022",
+    "input": "mama poem ekak liyagena inne",
+    "output": "mama poem ekak liyagena inne",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0023",
+    "input": "mama saahithya nisadhes kiyaweemata itha kemetthak dakwami",
+    "output": "mama saahithya nisadhes kiyaweemata itha kemetthak dakwami",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_Fun_0024",
+    "input": "oya heta niwadunam api gamanak yamu",
+    "output": "oya heta niwadunam api gamanak yamu",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0001",
+    "input": "bro eka hari!",
+    "output": "bro eka hari!",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0002",
+    "input": "lol mama adha busy",
+    "output": "lol mama adha busy",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0003",
+    "input": "tysm machan!",
+    "output": "tysm machan!",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0004",
+    "input": "mata phone ekata call ekak dhenna, BRB",
+    "output": "mata phone ekata call ekak dhenna, BRB",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0005",
+    "input": "omg eka hodha movie ekak",
+    "output": "omg eka hodha movie ekak",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0006",
+    "input": "URL eka copy karala paste karanna",
+    "output": "URL eka copy karala paste karanna",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0007",
+    "input": "wifi password eka kohomadha dhagatthey",
+    "output": "wifi password eka kohomadha dhagatthey",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0008",
+    "input": "netflix ge subscription ekak gatta Disney+ ekka",
+    "output": "netflix ge subscription ekak gatta Disney+ ekka",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0009",
+    "input": "ok",
+    "output": "ok",
+    "status": "READ"
+  },
+  {
+    "id": "Neg_Fun_0010",
+    "input": "hmm balamu",
+    "output": "hmm balamu",
+    "status": "READ"
+  },
+  {
+    "id": "Pos_UI_0001",
+    "input": "mama type karagena inne",
+    "output": "mama type karagena inne",
+    "status": "READ"
+  }
+]
